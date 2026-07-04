@@ -1,0 +1,385 @@
+# Données du programme LED — source unique pour le site, les PDFs et le vote
+# Présidentielle française 2027
+
+manifeste_url: "https://www.change.org/"  # À remplacer par l'URL de pétition réelle
+
+sections:
+  - id: liberte
+    title_fr: "I. Liberté"
+    title_en: "I. Liberty"
+    measures:
+      - id: liberte-economique
+        title_fr: "Liberté économique et mesures libérales (ESG)"
+        title_en: "Economic liberty and liberal measures (ESG)"
+        summary_fr: "Liberté économique et mesures libérales, dans le respect de contraintes durables (Environnemental, Social, Gouvernance)."
+        summary_en: "Economic liberty and liberal measures, within sustainable constraints (Environmental, Social, Governance)."
+      - id: limites-consommation
+        title_fr: "Limites individuelles de consommation de ressources"
+        title_en: "Individual limits on resource consumption"
+        summary_fr: "Mise en place de limites individuelles de consommation de ressources (eau, énergie, etc.)."
+        summary_en: "Implementation of individual limits on resource consumption (water, energy, etc.)."
+      - id: limites-ethiques
+        title_fr: "Limites éthiques sur les technologies et la vie"
+        title_en: "Ethical limits on technology and life"
+        summary_fr: "Définition de limites éthiques sur : procréation, assistance au suicide, humain augmenté, allongement de la durée de vie, IA dans la défense, conquête spatiale."
+        summary_en: "Definition of ethical limits on: procreation, assisted suicide, augmented humans, life extension, AI in defense, space conquest."
+      - id: production-francaise
+        title_fr: "Priorité à la production française et européenne"
+        title_en: "Priority for French and European production"
+        summary_fr: "Priorité à la production française et européenne ; recours à des droits de douane sur les secteurs stratégiques si nécessaire."
+        summary_en: "Priority for French and European production; use of tariffs on strategic sectors when necessary."
+
+  - id: environnement
+    title_fr: "II. Environnement"
+    title_en: "II. Environment"
+    measures:
+      - id: politique-esg
+        title_fr: "Politique écologique fondée sur les critères ESG"
+        title_en: "Ecological policy based on ESG criteria"
+        summary_fr: "Politique écologique fondée sur les critères ESG."
+        summary_en: "Ecological policy based on ESG criteria."
+      - id: reduction-energie
+        title_fr: "Réduction massive de la consommation énergétique"
+        title_en: "Massive reduction of energy consumption"
+        summary_fr: "Réduction massive de la consommation énergétique nationale (isolation systématique, pompes à chaleur, véhicules moins rapides et plus légers, projets BTP durables, etc.)."
+        summary_en: "Massive reduction of national energy consumption (systematic insulation, heat pumps, slower and lighter vehicles, sustainable construction projects, etc.)."
+      - id: amenagement-territoire
+        title_fr: "Aménagement du territoire à long terme"
+        title_en: "Long-term territorial planning"
+        summary_fr: "Aménagement du territoire pensé sur le long terme, avec préservation du patrimoine et des traditions."
+        summary_en: "Long-term territorial planning with preservation of heritage and traditions."
+      - id: penalites-projets
+        title_fr: "Pénalités pour projets insuffisamment durables"
+        title_en: "Penalties for insufficiently sustainable projects"
+        summary_fr: "Pénalités pour les projets jugés trop rapides ou insuffisamment durables."
+        summary_en: "Penalties for projects deemed too fast or insufficiently sustainable."
+      - id: traditions-anciens
+        title_fr: "Respect des anciens et transmission des traditions"
+        title_en: "Respect for elders and transmission of traditions"
+        summary_fr: "Respect des anciens et transmission des traditions."
+        summary_en: "Respect for elders and transmission of traditions."
+      - id: agriculture-bio
+        title_fr: "Retour à une agriculture majoritairement biologique"
+        title_en: "Return to predominantly organic agriculture"
+        summary_fr: "Retour à une agriculture majoritairement biologique."
+        summary_en: "Return to predominantly organic agriculture."
+      - id: droits-douane-env
+        title_fr: "Droits de douane environnementaux"
+        title_en: "Environmental tariffs"
+        summary_fr: "Droits de douane environnementaux pour les produits ne respectant pas les normes françaises ou européennes."
+        summary_en: "Environmental tariffs for products not meeting French or European standards."
+      - id: transports-eco
+        title_fr: "Réorganisation des transports"
+        title_en: "Transport reorganization"
+        summary_fr: "Réorganisation des transports : priorité au ferroviaire, développement du partage automobile, limitation du transport aérien."
+        summary_en: "Transport reorganization: rail priority, car-sharing development, limitation of air transport."
+
+  - id: democratie
+    title_fr: "III. Démocratie, institutions et société"
+    title_en: "III. Democracy, institutions and society"
+    measures:
+      - id: vie-republique
+        title_fr: "VIe République et référendums numériques"
+        title_en: "Sixth Republic and digital referendums"
+        summary_fr: "Réforme institutionnelle vers une VIe République fondée sur des référendums numériques."
+        summary_en: "Institutional reform toward a Sixth Republic based on digital referendums."
+      - id: septennat
+        title_fr: "Retour au septennat présidentiel"
+        title_en: "Return to the seven-year presidential term"
+        summary_fr: "Retour au septennat présidentiel."
+        summary_en: "Return to the seven-year presidential term."
+      - id: carte-bbr
+        title_fr: "Carte Bleu-Blanc-Rouge"
+        title_en: "Blue-White-Red Card"
+        summary_fr: "Carte Bleu-Blanc-Rouge garantissant les besoins fondamentaux : logement, santé, alimentation et hygiène."
+        summary_en: "Blue-White-Red Card guaranteeing fundamental needs: housing, health, food and hygiene."
+      - id: reforme-education
+        title_fr: "Réforme de l'éducation"
+        title_en: "Education reform"
+        summary_fr: "Réforme de l'éducation : nouveaux formats collège/lycée, spécialisation accrue, transformation de l'enseignement supérieur."
+        summary_en: "Education reform: new middle/high school formats, increased specialization, transformation of higher education."
+      - id: nouveau-college
+        title_fr: "Nouveau format de Collège"
+        title_en: "New middle school format"
+        summary_fr: "Collège en 4, 5 ou 6 ans selon le niveau (brevet nécessaire pour voter). Modèle allemand pour les après-midis libres (langues, arts, sport)."
+        summary_en: "Middle school in 4, 5 or 6 years depending on level (diploma required to vote). German model for free afternoons (languages, arts, sports)."
+      - id: bac-a-levels
+        title_fr: "Baccalauréat format anglais (A-levels)"
+        title_en: "A-level style baccalaureate"
+        summary_fr: "Baccalauréat calqué sur le format anglais (A-levels) avec le choix de 4 matières, dont au moins une littéraire et une scientifique."
+        summary_en: "Baccalaureate modeled on the English A-levels format with 4 subjects, including at least one literary and one scientific."
+      - id: reduction-fiscalite
+        title_fr: "Réduction des dépenses publiques et de la fiscalité"
+        title_en: "Reduction of public spending and taxation"
+        summary_fr: "Réduction des dépenses publiques et de la fiscalité."
+        summary_en: "Reduction of public spending and taxation."
+      - id: budgets-militaires
+        title_fr: "Renforcement des budgets militaires"
+        title_en: "Strengthening of military budgets"
+        summary_fr: "Renforcement des budgets militaires pour l'autonomie stratégique."
+        summary_en: "Strengthening of military budgets for strategic autonomy."
+      - id: reforme-ue
+        title_fr: "Réforme de la relation avec l'Union européenne"
+        title_en: "Reform of the relationship with the European Union"
+        summary_fr: "Réforme de la relation avec l'Union européenne et réflexion sur une Europe simplifiée (normes communes et partenariats entre pays)."
+        summary_en: "Reform of the relationship with the EU and reflection on a simplified Europe (common standards and partnerships between countries)."
+      - id: projet-quebec
+        title_fr: "Projet relatif au Québec"
+        title_en: "Quebec project"
+        summary_fr: "Indépendance ou statut de co-tutelle France-Canada pour éviter la perte de la langue et culture franco-québécoise."
+        summary_en: "Independence or France-Canada co-guardianship status to prevent the loss of Franco-Quebec language and culture."
+      - id: plafonnement-richesse
+        title_fr: "Plafonnement de la richesse"
+        title_en: "Wealth cap"
+        summary_fr: "Plafonnement de la richesse annuelle et du patrimoine individuel (1 M€ max/an et 100 M€ max de patrimoine personnel)."
+        summary_en: "Cap on annual wealth and individual assets (€1M max/year and €100M max personal wealth)."
+      - id: niveaux-nationalite
+        title_fr: "Trois niveaux de nationalité"
+        title_en: "Three levels of nationality"
+        summary_fr: "Création de trois niveaux de nationalité (I : Français seulement ; II : Français multinational ; III : Amitié française) et restriction de l'accès à la propriété immobilière selon le statut."
+        summary_en: "Creation of three levels of nationality (I: French only; II: Multinational French; III: French Friendship) and restriction of property access by status."
+
+  - id: recompenses
+    title_fr: "Récompenses, mérite et reconnaissance"
+    title_en: "Rewards, merit and recognition"
+    measures:
+      - id: reforme-decorations
+        title_fr: "Réforme des systèmes de décorations"
+        title_en: "Reform of decoration systems"
+        summary_fr: "Réforme des systèmes de décorations et de médailles."
+        summary_en: "Reform of decoration and medal systems."
+      - id: ordre-humanite
+        title_fr: "Ordre pour l'Humanité"
+        title_en: "Order for Humanity"
+        summary_fr: "Création de l'Ordre pour l'Humanité (grade unique de chevalier), médaille la plus prestigieuse de France, décernée aux personnes les plus impliquées dans la paix et la prospérité."
+        summary_en: "Creation of the Order for Humanity (single knight grade), France's most prestigious medal, awarded to those most involved in peace and prosperity."
+      - id: coupole-argent
+        title_fr: "Grande Coupole d'Argent à Lyon"
+        title_en: "Great Silver Dome in Lyon"
+        summary_fr: "Création d'une Grande Coupole d'Argent à Lyon réunissant 120 « Éternels » élus internationalement pour fixer les limites éthiques de l'Humanité."
+        summary_en: "Creation of a Great Silver Dome in Lyon gathering 120 internationally elected 'Eternals' to set humanity's ethical limits."
+      - id: parcours-excellence
+        title_fr: "Parcours d'excellence scolaire"
+        title_en: "School excellence pathways"
+        summary_fr: "Parcours d'excellence au collège-lycée-université dans les domaines scientifiques, sportifs, artistiques et littéraires."
+        summary_en: "Excellence pathways in middle school, high school and university in scientific, sports, artistic and literary fields."
+      - id: distinctions-college
+        title_fr: "Accès aux distinctions dès le collège"
+        title_en: "Access to distinctions from middle school"
+        summary_fr: "Accès aux distinctions dès le collège."
+        summary_en: "Access to distinctions from middle school."
+      - id: patronyme-commune
+        title_fr: "Nom de commune au patronyme"
+        title_en: "Municipality name in surname"
+        summary_fr: "Possibilité d'ajouter le nom de sa commune à son patronyme sous conditions de service rendu."
+        summary_en: "Possibility of adding one's municipality name to one's surname under conditions of service rendered."
+      - id: mathusalem-europe
+        title_fr: "Représentant symbolique de l'Europe (Mathusalemi)"
+        title_en: "Symbolic representative of Europe (Methuselah)"
+        summary_en: "Proposal for a symbolic representative of Europe ('Methuselah')."
+        summary_fr: "Proposition d'un représentant symbolique de l'Europe (« Mathusalemi »)."
+
+  - id: immigration
+    title_fr: "Immigration et sécurité"
+    title_en: "Immigration and security"
+    measures:
+      - id: entree-migrants
+        title_fr: "Dispositifs d'entrée des migrants"
+        title_en: "Migrant entry mechanisms"
+        summary_fr: "Création de dispositifs d'entrée des migrants fondés sur les besoins économiques réels."
+        summary_en: "Creation of migrant entry mechanisms based on real economic needs."
+      - id: plateforme-sectorielle
+        title_fr: "Plateforme numérique des besoins sectoriels"
+        title_en: "Digital platform for sector needs"
+        summary_fr: "Plateforme numérique de gestion des besoins sectoriels."
+        summary_en: "Digital platform for managing sector needs."
+      - id: reconduites
+        title_fr: "Reconduites des migrants irréguliers"
+        title_en: "Removal of irregular migrants"
+        summary_fr: "Organisation des reconduites des migrants en situation irrégulière."
+        summary_en: "Organization of removals of migrants in irregular situations."
+      - id: gendarmerie-navale
+        title_fr: "Gendarmerie navale européenne"
+        title_en: "European naval gendarmerie"
+        summary_fr: "Création d'une gendarmerie navale européenne pour le contrôle de la Méditerranée."
+        summary_en: "Creation of a European naval gendarmerie for Mediterranean control."
+
+  - id: gouvernance-numerique
+    title_fr: "Gouvernance numérique et souveraineté"
+    title_en: "Digital governance and sovereignty"
+    measures:
+      - id: alternatives-numeriques
+        title_fr: "Alternatives françaises et européennes aux grandes plateformes"
+        title_en: "French and European alternatives to major platforms"
+        summary_fr: "Développement d'alternatives françaises et européennes aux grandes plateformes numériques."
+        summary_en: "Development of French and European alternatives to major digital platforms."
+      - id: donnees-strategiques
+        title_fr: "Reprise de la maîtrise des données stratégiques"
+        title_en: "Regaining control of strategic data"
+        summary_fr: "Reprise de la maîtrise des données stratégiques et cartographiques."
+        summary_en: "Regaining control of strategic and mapping data."
+      - id: concours-numerique
+        title_fr: "Concours publics pour le numérique national"
+        title_en: "Public competitions for national digital sector"
+        summary_fr: "Concours publics et récompenses pour soutenir les acteurs nationaux du numérique."
+        summary_en: "Public competitions and rewards to support national digital actors."
+      - id: oirs
+        title_fr: "Organisation Internationale pour la Régulation des Satellites (OIRS)"
+        title_en: "International Organization for Satellite Regulation (IOSR)"
+        summary_fr: "Création de l'OIRS pour limiter le nombre de satellites en orbite et les débris spatiaux, favoriser la coopération internationale."
+        summary_en: "Creation of IOSR to limit the number of satellites in orbit and space debris, promote international cooperation."
+
+  - id: dette
+    title_fr: "Dette et finances publiques"
+    title_en: "Debt and public finances"
+    measures:
+      - id: desendettement
+        title_fr: "Trajectoire de désendettement sur vingt ans"
+        title_en: "Twenty-year debt reduction trajectory"
+        summary_fr: "Trajectoire de désendettement sur vingt ans (réduction des fonctionnaires, prestations sociales couvertes par la carte BBR)."
+        summary_en: "Twenty-year debt reduction trajectory (reduction of civil servants, social benefits covered by the BBR card)."
+      - id: dette-nulle
+        title_fr: "Objectif de dette publique nulle"
+        title_en: "Zero public debt objective"
+        summary_fr: "Objectif de dette publique nulle à terme."
+        summary_en: "Objective of zero public debt in the long term."
+      - id: reendettement-constitution
+        title_fr: "Réendettement nul inscrit dans la Constitution"
+        title_en: "Zero re-borrowing enshrined in the Constitution"
+        summary_fr: "Réendettement futur inscrit comme nul dans la constitution, sauf cas de crises majeures."
+        summary_en: "Future re-borrowing set as zero in the constitution, except in major crises."
+      - id: cagnottes-honneur
+        title_fr: "Cagnottes d'honneur"
+        title_en: "Honor funds"
+        summary_fr: "Création de « cagnottes d'honneur », financées par les citoyens sur les sujets qui les touchent (culture, santé spécialisée, etc.)."
+        summary_en: "Creation of 'honor funds', financed by citizens on subjects that matter to them (culture, specialized health, etc.)."
+
+  - id: defense
+    title_fr: "Défense"
+    title_en: "Defense"
+    measures:
+      - id: dronisation-ia
+        title_fr: "Dronisation et IA militaire"
+        title_en: "Military dronization and AI"
+        summary_fr: "Développement de la dronisation et de l'IA dans les systèmes militaires tout en maintenant l'humain au centre des décisions."
+        summary_en: "Development of dronization and AI in military systems while keeping humans at the center of decisions."
+      - id: commando-maupertuis
+        title_fr: "Commando Marine Maupertuis"
+        title_en: "Maupertuis Marine Commando"
+        summary_fr: "Création du Commando Marine d'excellence scientifique Maupertuis (scientifiques et ingénieurs de réserve)."
+        summary_en: "Creation of the Maupertuis scientific excellence Marine Commando (scientists and reserve engineers)."
+      - id: legion-reserve
+        title_fr: "Renforcement Légion étrangère et réserve"
+        title_en: "Strengthening Foreign Legion and reserves"
+        summary_fr: "Renforcement de la Légion étrangère et de la réserve."
+        summary_en: "Strengthening of the Foreign Legion and reserves."
+      - id: association-arcanes
+        title_fr: "Association Arcanes pour la réinsertion"
+        title_en: "Arcanes association for reintegration"
+        summary_fr: "Création de l'association Arcanes pour la réinsertion des détenus (parcours optimisés par l'IA)."
+        summary_en: "Creation of the Arcanes association for prisoner reintegration (AI-optimized pathways)."
+
+  - id: economie
+    title_fr: "Économie et professions réglementées"
+    title_en: "Economy and regulated professions"
+    measures:
+      - id: reduction-rentes
+        title_fr: "Réduction des situations de rente"
+        title_en: "Reduction of rent-seeking situations"
+        summary_fr: "Réduction des situations de rente."
+        summary_en: "Reduction of rent-seeking situations."
+      - id: concurrence-professions
+        title_fr: "Ouverture à la concurrence des professions réglementées"
+        title_en: "Opening regulated professions to competition"
+        summary_fr: "Ouverture accrue à la concurrence dans certaines professions réglementées."
+        summary_en: "Increased opening to competition in certain regulated professions."
+      - id: ia-metiers
+        title_fr: "IA encadrée dans les métiers juridiques, médicaux et administratifs"
+        title_en: "Regulated AI in legal, medical and administrative professions"
+        summary_fr: "Développement de l'IA encadrée dans les métiers juridiques, médicaux et administratifs."
+        summary_en: "Development of regulated AI in legal, medical and administrative professions."
+
+  - id: transports
+    title_fr: "Transports et aménagement"
+    title_en: "Transport and planning"
+    measures:
+      - id: aeroports
+        title_fr: "Conservation de trois grands aéroports internationaux"
+        title_en: "Three major international airports only"
+        summary_fr: "Conservation de seulement trois grands aéroports internationaux (CdG, Orly et Nice)."
+        summary_en: "Retention of only three major international airports (CDG, Orly and Nice)."
+      - id: taxe-aerien
+        title_fr: "Taxation accrue du transport aérien"
+        title_en: "Increased taxation of air transport"
+        summary_fr: "Taxation accrue du transport aérien."
+        summary_en: "Increased taxation of air transport."
+      - id: tourisme-aerien
+        title_fr: "Réduction du tourisme aérien émetteur"
+        title_en: "Reduction of high-emission air tourism"
+        summary_fr: "Réduction du tourisme aérien fortement émetteur."
+        summary_en: "Reduction of highly emitting air tourism."
+      - id: ferroviaire
+        title_fr: "Développement massif du ferroviaire"
+        title_en: "Massive rail development"
+        summary_fr: "Développement massif du ferroviaire."
+        summary_en: "Massive development of rail transport."
+      - id: vehicules-partages
+        title_fr: "Véhicules partagés et automatisés"
+        title_en: "Shared and automated vehicles"
+        summary_fr: "Déploiement de véhicules partagés et automatisés."
+        summary_en: "Deployment of shared and automated vehicles."
+
+  - id: excellence
+    title_fr: "Excellence scientifique"
+    title_en: "Scientific excellence"
+    measures:
+      - id: polytechnique
+        title_fr: "Renforcement de l'École polytechnique"
+        title_en: "Strengthening École Polytechnique"
+        summary_fr: "Renforcement du rôle de l'École polytechnique comme pôle scientifique international."
+        summary_en: "Strengthening École Polytechnique's role as an international scientific hub."
+      - id: poles-competitivite
+        title_fr: "Pôles de compétitivité universitaires"
+        title_en: "University competitiveness clusters"
+        summary_fr: "Renforcer les pôles de compétitivité universitaires de la France et la collaboration européenne sur les sujets stratégiques."
+        summary_en: "Strengthen France's university competitiveness clusters and European collaboration on strategic topics."
+      - id: universites-selectives
+        title_fr: "Transition vers des universités sélectives"
+        title_en: "Transition to selective universities"
+        summary_fr: "Transition d'un monde de « Grandes » écoles élitistes à un monde d'universités sélectives mais ouvertes sur le monde."
+        summary_en: "Transition from elite 'Grandes écoles' to selective but globally open universities."
+
+  - id: cohesion
+    title_fr: "Cohésion nationale"
+    title_en: "National cohesion"
+    measures:
+      - id: festins-obelix
+        title_fr: "Festins d'Obélix mensuels"
+        title_en: "Monthly Obelix Feasts"
+        summary_fr: "Création des « Festins d'Obélix » mensuels dans les communes, financés par l'État, pour favoriser la cohésion et la fraternité."
+        summary_en: "Creation of monthly 'Obelix Feasts' in municipalities, state-funded, to foster cohesion and fraternity."
+
+  - id: fonction-publique
+    title_fr: "Fonction publique et concours"
+    title_en: "Civil service and competitive exams"
+    measures:
+      - id: epreuve-maths
+        title_fr: "Épreuve de mathématiques aux grands concours"
+        title_en: "Mathematics exam in major competitive exams"
+        summary_fr: "Introduction d'une épreuve de mathématiques dans les grands concours administratifs."
+        summary_en: "Introduction of a mathematics exam in major administrative competitive exams."
+      - id: epreuve-sciences
+        title_fr: "Épreuve de sciences expérimentales aux grands concours"
+        title_en: "Experimental sciences exam in major competitive exams"
+        summary_fr: "Introduction d'une épreuve de sciences expérimentales dans les grands concours administratifs pour mieux appréhender la transition climatique."
+        summary_en: "Introduction of an experimental sciences exam in major administrative competitive exams to better address the climate transition."
+
+  - id: monarchie
+    title_fr: "Monarchie constitutionnelle (proposition institutionnelle)"
+    title_en: "Constitutional monarchy (institutional proposal)"
+    measures:
+      - id: roi-elu
+        title_fr: "Retour d'un roi élu à vie"
+        title_en: "Return of an elected lifelong king"
+        summary_fr: "Retour d'un roi élu à vie par le peuple parmi trois candidats présélectionnés par le Sénat, rôle représentatif avec certains droits de veto constitutionnels."
+        summary_en: "Return of a king elected for life by the people from three candidates pre-selected by the Senate, representative role with certain constitutional veto rights."

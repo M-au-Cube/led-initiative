@@ -1,0 +1,209 @@
+:root {
+  --led-blue: #005293;
+  --led-green: #007847;
+  --led-gold: #c4a035;
+}
+
+.md-typeset h1 {
+  color: var(--led-blue);
+}
+
+.led-hero {
+  background: linear-gradient(135deg, rgba(0, 82, 147, 0.08), rgba(0, 120, 71, 0.08));
+  border: 1px solid rgba(0, 82, 147, 0.15);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.led-pillars {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.led-pillar {
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--led-blue);
+  background: var(--md-code-bg-color);
+}
+
+.led-pillar:nth-child(2) {
+  border-left-color: var(--led-green);
+}
+
+.led-pillar:nth-child(3) {
+  border-left-color: var(--led-gold);
+}
+
+.led-downloads {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1rem 0 2rem;
+}
+
+.led-downloads a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  border-radius: 0.35rem;
+  background: var(--led-blue);
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.led-downloads a:hover {
+  opacity: 0.9;
+}
+
+.led-section {
+  margin: 2rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--led-green);
+}
+
+.led-measure {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  margin: 0.75rem 0;
+  background: var(--md-default-bg-color);
+}
+
+.led-measure h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+}
+
+.led-measure p {
+  margin-bottom: 0.75rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.led-measure-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.led-measure-actions a {
+  font-size: 0.85rem;
+}
+
+.led-vote-panel {
+  margin-top: 2rem;
+}
+
+.led-vote-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.led-vote-btn {
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  background: var(--md-default-bg-color);
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  cursor: pointer;
+  font: inherit;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.led-vote-btn:hover {
+  border-color: var(--led-blue);
+}
+
+.led-vote-btn.active-like {
+  background: rgba(0, 120, 71, 0.15);
+  border-color: var(--led-green);
+  color: var(--led-green);
+}
+
+.led-vote-btn.active-dislike {
+  background: rgba(180, 40, 40, 0.12);
+  border-color: #b42828;
+  color: #b42828;
+}
+
+.led-vote-counts {
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.35rem;
+}
+
+.led-vote-notice {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background: rgba(0, 82, 147, 0.08);
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.led-contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.led-contact-card {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+}
+
+.led-contact-form label {
+  display: block;
+  margin: 0.75rem 0 0.25rem;
+  font-weight: 600;
+}
+
+.led-contact-form input,
+.led-contact-form textarea,
+.led-contact-form select {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.35rem;
+  font: inherit;
+  background: var(--md-default-bg-color);
+  color: inherit;
+  box-sizing: border-box;
+}
+
+.led-contact-form button {
+  margin-top: 1rem;
+  padding: 0.65rem 1.25rem;
+  background: var(--led-blue);
+  color: #fff;
+  border: none;
+  border-radius: 0.35rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.led-contact-form button:hover {
+  opacity: 0.92;
+}
+
+.led-loading {
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
+
+@media screen and (max-width: 768px) {
+  .led-downloads {
+    flex-direction: column;
+  }
+}

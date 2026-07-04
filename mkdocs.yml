@@ -1,1 +1,118 @@
-site_name: My Docs
+site_name: LED — Liberté Environnement Démocratie
+site_url: https://led-initiative.fr
+site_description: Parti LED — Projet de programme pour la présidentielle française 2027
+site_author: LED Initiative
+copyright: Copyright &copy; 2026 LED Initiative
+
+repo_url: https://github.com/led-initiative/led-initiative
+repo_name: led-initiative/led-initiative
+
+extra:
+  manifeste_url: https://www.change.org/
+  contact_email: contact@led-initiative.fr
+  # Créez un formulaire sur https://formspree.io/ (email : contact@led-initiative.fr)
+  # puis collez l'identifiant ici (ex. xrgwkpvn).
+  formspree_form_id: YOUR_FORM_ID
+  alternate:
+    - name: Français
+      link: /
+      lang: fr
+    - name: English
+      link: /en/
+      lang: en
+
+theme:
+  name: material
+  language: fr
+  logo: assets/images/logo.svg
+  favicon: assets/images/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Mode clair
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search:
+      lang:
+        - fr
+        - en
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: fr
+          default: true
+          name: Français
+          build: true
+          site_name: LED — Liberté Environnement Démocratie
+          theme:
+            language: fr
+          nav:
+            - Accueil: index.md
+            - Programme: programme/index.md
+            - Mesures: mesures/index.md
+            - Voter: vote/index.md
+            - Manifeste: manifeste/index.md
+            - Contact: contact/index.md
+        - locale: en
+          name: English
+          build: true
+          site_name: LED — Liberty Environment Democracy
+          theme:
+            language: en
+          nav:
+            - Home: index.md
+            - Program: programme/index.md
+            - Measures: mesures/index.md
+            - Vote: vote/index.md
+            - Manifesto: manifeste/index.md
+            - Contact: contact/index.md
+
+extra_css:
+  - assets/css/custom.css
+
+extra_javascript:
+  - assets/js/voting-config.js
+  - assets/js/voting.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Accueil: index.md
+  - Programme: programme/index.md
+  - Mesures: mesures/index.md
+  - Voter: vote/index.md
+  - Manifeste: manifeste/index.md
+  - Contact: contact/index.md

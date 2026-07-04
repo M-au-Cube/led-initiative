@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+site/
+.cache/
+.DS_Store
+Thumbs.db
+docs/javascripts/voting-config.local.js
+
+# Générés par scripts/generate_pdfs.py (recréés au build CI)
+docs/assets/pdf/
+docs/assets/data/measures.json
