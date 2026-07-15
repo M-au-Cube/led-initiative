@@ -85,7 +85,7 @@ def generate_general_pdf(lang: str, data: dict) -> Path:
     pdf.add_page()
 
     if lang == "fr":
-        write_title(pdf, "Projet de programme - Parti LED", 18)
+        write_title(pdf, "Projet de programme - Initiative LED", 18)
         write_title(pdf, "(Liberte, Environnement, Democratie)", 14)
         write_paragraph(
             pdf,
@@ -109,7 +109,7 @@ def generate_general_pdf(lang: str, data: dict) -> Path:
                 pdf.ln(2)
         out = PDF_DIR / "fr" / "programme-general.pdf"
     else:
-        write_title(pdf, "Program Draft - LED Party", 18)
+        write_title(pdf, "Program Draft - LED Initiative", 18)
         write_title(pdf, "(Liberty, Environment, Democracy)", 14)
         write_paragraph(
             pdf,
@@ -147,12 +147,12 @@ def generate_measure_pdf(measure: dict, section_title: str, lang: str) -> Path:
         title = measure["title_fr"]
         summary = measure["summary_fr"]
         header = section_title if isinstance(section_title, str) else section_title
-        subtitle = "Fiche mesure - Parti LED"
+        subtitle = "Fiche mesure - Initiative LED"
     else:
         title = measure["title_en"]
         summary = measure["summary_en"]
         header = section_title
-        subtitle = "Measure sheet - LED Party"
+        subtitle = "Measure sheet - LED Initiative"
 
     write_paragraph(pdf, subtitle, 10)
     write_paragraph(pdf, sanitize(header), 11)

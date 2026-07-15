@@ -20,4 +20,4 @@ Ci-dessous, l'ensemble des mesures organisées par thème. Chaque mesure dispose
 
 ---
 
-[Voir toutes les fiches PDF →](/mesures/) · [Donner votre avis sur chaque mesure →](/vote/)
+[Voir la chronologie du programme →](/chronologie/) · [Donner votre avis sur chaque mesure →](/vote/)

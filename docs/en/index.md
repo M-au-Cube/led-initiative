@@ -1,8 +1,10 @@
-# LED — Liberty, Environment, Democracy
+<h1 class="led-title-with-flag">LED — Liberty, Environment, Democracy</h1>
 
 <div class="led-hero" markdown="1">
 
-**LED Party** — Program draft for the **2027 French presidential election**.
+**LED Initiative** — Program draft for the **2027 French presidential election**.
+
+**Show your support and help turn the LED initiative into a political party for the 2027 presidential election.**
 
 Three fundamental pillars for a sovereign, sustainable and democratic France.
 
@@ -36,6 +38,10 @@ Sixth Republic, digital referendums, education reform and institutional renewal.
 
 </div>
 
+<div class="led-home-logo">
+  <img src="/assets/images/logo-led.png" alt="LED — Liberty Environment Democracy">
+</div>
+
 ## Download the program
 
 <div class="led-downloads" markdown="1">
@@ -47,7 +53,7 @@ Sixth Republic, digital referendums, education reform and institutional renewal.
 
 ## Explore the program
 
-Browse the [detailed program](/en/programme/) with all proposed measures, each available as a [dedicated PDF sheet](/en/mesures/).
+Browse the [detailed program](/en/programme/) with all proposed measures, each available as a **PDF sheet** from the Program page.
 
 !!! tip "Your opinion matters"
     On the [Vote](/en/vote/) page, express your support or opposition to each proposed measure.

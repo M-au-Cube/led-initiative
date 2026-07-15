@@ -45,6 +45,10 @@ Pour toute question sur le programme, les adhésions ou la presse, écrivez-nous
 
 </div>
 
+<div class="led-contact-logo">
+  <img src="/assets/images/logo-led.png" alt="LED — Liberté Environnement Démocratie">
+</div>
+
 ---
 
 [Retour à l'accueil](/)

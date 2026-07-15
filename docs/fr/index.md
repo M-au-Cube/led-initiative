@@ -1,8 +1,10 @@
-# LED — Liberté, Environnement, Démocratie
+<h1 class="led-title-with-flag">LED — Liberté, Environnement, Démocratie</h1>
 
 <div class="led-hero" markdown="1">
 
-**Parti LED** — Projet de programme pour la **présidentielle française 2027**.
+**Initiative LED** — Projet de programme pour la **présidentielle française 2027**.
+
+**Donnez votre soutien et transformez l'initiative LED en parti politique pour la présidentielle 2027.**
 
 Trois piliers fondamentaux pour une France souveraine, durable et démocratique.
 
@@ -36,6 +38,10 @@ VIe République, référendums numériques, réforme de l'éducation et refondat
 
 </div>
 
+<div class="led-home-logo">
+  <img src="/assets/images/logo-led.png" alt="LED — Liberté Environnement Démocratie">
+</div>
+
 ## Télécharger le programme
 
 <div class="led-downloads" markdown="1">
@@ -47,7 +53,7 @@ VIe République, référendums numériques, réforme de l'éducation et refondat
 
 ## Explorer le programme
 
-Consultez le [programme détaillé](/programme/) avec l'ensemble des mesures proposées, chacune disponible en [fiche PDF dédiée](/mesures/).
+Consultez le [programme détaillé](/programme/) avec l'ensemble des mesures proposées, chacune disponible en **fiche PDF** depuis la page Programme.
 
 !!! tip "Votre avis compte"
     Sur la page [Voter](/vote/), exprimez votre soutien ou votre opposition à chaque mesure proposée.

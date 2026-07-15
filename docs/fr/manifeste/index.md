@@ -4,9 +4,9 @@ Rejoignez l'initiative citoyenne LED en signant notre manifeste. Votre signature
 
 ## Signer le manifeste
 
-<div class="led-downloads" markdown="1">
+<div class="led-downloads">
 
-[✍️ Signer le manifeste en ligne]({{ config.extra.manifeste_url }}){ .md-button target=_blank rel=noopener }
+<a href="{{ config.extra.manifeste_url }}" target="_blank" rel="noopener">✍️ Signer le manifeste en ligne</a>
 
 </div>
 

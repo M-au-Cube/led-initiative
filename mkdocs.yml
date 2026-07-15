@@ -1,6 +1,7 @@
 site_name: LED — Liberté Environnement Démocratie
 site_url: https://led-initiative.fr
-site_description: Parti LED — Projet de programme pour la présidentielle française 2027
+dev_addr: 127.0.0.1:3008
+site_description: Initiative LED — Projet de programme pour la présidentielle française 2027
 site_author: LED Initiative
 copyright: Copyright &copy; 2026 LED Initiative
 
@@ -24,20 +25,20 @@ extra:
 theme:
   name: material
   language: fr
-  logo: assets/images/logo.svg
-  favicon: assets/images/favicon.svg
+  favicon: assets/images/favicon.png
+  logo: assets/images/logo-led.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
-      accent: green
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Mode sombre
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: green
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Mode clair
@@ -72,7 +73,7 @@ plugins:
           nav:
             - Accueil: index.md
             - Programme: programme/index.md
-            - Mesures: mesures/index.md
+            - Chronologie: chronologie/index.md
             - Voter: vote/index.md
             - Manifeste: manifeste/index.md
             - Contact: contact/index.md
@@ -85,7 +86,7 @@ plugins:
           nav:
             - Home: index.md
             - Program: programme/index.md
-            - Measures: mesures/index.md
+            - Timeline: chronologie/index.md
             - Vote: vote/index.md
             - Manifesto: manifeste/index.md
             - Contact: contact/index.md
@@ -112,7 +113,7 @@ markdown_extensions:
 nav:
   - Accueil: index.md
   - Programme: programme/index.md
-  - Mesures: mesures/index.md
+  - Chronologie: chronologie/index.md
   - Voter: vote/index.md
   - Manifeste: manifeste/index.md
   - Contact: contact/index.md

@@ -1,6 +1,6 @@
 # LED Initiative — Site web
 
-Site statique bilingue (FR/EN) du parti **LED** (Liberté, Environnement, Démocratie), construit avec [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) et hébergé sur **GitHub Pages** à l'adresse [led-initiative.fr](https://led-initiative.fr).
+Site statique bilingue (FR/EN) de l'initiative **LED** (Liberté, Environnement, Démocratie), construit avec [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) et hébergé sur **GitHub Pages** à l'adresse [led-initiative.fr](https://led-initiative.fr).
 
 ## Structure
 
@@ -8,22 +8,34 @@ Site statique bilingue (FR/EN) du parti **LED** (Liberté, Environnement, Démoc
 |------|----|----|
 | Accueil | `/` | `/en/` |
 | Programme | `/programme/` | `/en/programme/` |
-| Fiches PDF | `/mesures/` | `/en/mesures/` |
+| Chronologie | `/chronologie/` | `/en/chronologie/` |
 | Vote | `/vote/` | `/en/vote/` |
 | Manifeste | `/manifeste/` | `/en/manifeste/` |
 | Contact | `/contact/` | `/en/contact/` |
 
 ## Développement local
 
-```bash
+```powershell
 python -m venv .venv
-.venv\Scripts\activate        # Windows
+.venv\Scripts\activate
 pip install -r requirements.txt
+.\scripts\serve.ps1
+```
+
+Puis **copiez-collez** cette URL dans Chrome ou Edge (les liens du chat Cursor n'ouvrent pas toujours le navigateur) :
+
+**http://127.0.0.1:3008/**
+
+> **Note :** `led-initiative.fr` ne fonctionnera qu'après déploiement sur GitHub Pages et configuration DNS. En local, utilisez toujours `127.0.0.1:3008`.
+
+Alternative avec rechargement automatique (même port 3008) :
+
+```powershell
 python scripts/generate_pdfs.py
 mkdocs serve
 ```
 
-Le site est accessible sur [http://127.0.0.1:8000](http://127.0.0.1:8000).
+Le port **3008** est défini dans `mkdocs.yml` (`dev_addr`).
 
 ## Contenu et PDFs
 

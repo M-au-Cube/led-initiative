@@ -45,6 +45,10 @@ For any questions about the program, membership or press inquiries, write to us 
 
 </div>
 
+<div class="led-contact-logo">
+  <img src="/assets/images/logo-led.png" alt="LED — Liberty Environment Democracy">
+</div>
+
 ---
 
 [Back to home](/en/)

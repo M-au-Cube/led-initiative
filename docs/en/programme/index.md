@@ -20,4 +20,4 @@ Below, all measures organized by theme. Each measure has a **detailed PDF sheet*
 
 ---
 
-[View all PDF sheets →](/en/mesures/) · [Share your opinion on each measure →](/en/vote/)
+[View the program timeline →](/en/chronologie/) · [Share your opinion on each measure →](/en/vote/)

@@ -4,9 +4,9 @@ Join the LED civic initiative by signing our manifesto. Your signature demonstra
 
 ## Sign the manifesto
 
-<div class="led-downloads" markdown="1">
+<div class="led-downloads">
 
-[✍️ Sign the manifesto online]({{ config.extra.manifeste_url }}){ .md-button target=_blank rel=noopener }
+<a href="{{ config.extra.manifeste_url }}" target="_blank" rel="noopener">✍️ Sign the manifesto online</a>
 
 </div>
 

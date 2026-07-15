@@ -2,7 +2,7 @@
 
 <div class="led-vote-notice" markdown="1">
 
-For each measure proposed by the LED party, indicate whether you are **for** or **against**. Your vote is saved locally in your browser.
+For each measure proposed by the LED initiative, indicate whether you are **for** or **against**. Your vote is saved locally in your browser.
 
 For nationwide vote aggregation, configure Supabase in `docs/assets/js/voting-config.js` (see the repository README).
 
