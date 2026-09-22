@@ -40,7 +40,7 @@ Indicative roadmap for the **LED** initiative — from foundation to program imp
 <div class="led-timeline-item led-timeline--prep">
   <time>December 2026</time>
   <h3>Blue-White-Red Card presentation</h3>
-  <p>Unveiling of the Blue-White-Red Card: housing (blue), health (white), basic food and hygiene (blue), and "rare" resources (water, energy).</p>
+  <p>Unveiling of the Blue-White-Red Card: housing (blue), health (white), basic food and hygiene (red), and "rare" resources (water, energy).</p>
 </div>
 
 <div class="led-timeline-item led-timeline--prep">
@@ -76,7 +76,7 @@ Indicative roadmap for the **LED** initiative — from foundation to program imp
 <div class="led-timeline-item led-timeline--action">
   <time>January 2028</time>
   <h3>Education reform — pilot phase</h3>
-  <p>Trial of the new middle school format (4, 5 or 6 years), brevet required to vote and oath of loyalty for status I; A-level style baccalaureate in thirty schools.</p>
+  <p>Trial of the new middle school format (4, 5 or 6 years), brevet required to vote and oath of loyalty for nationality status I; A-level style baccalaureate in thirty schools.</p>
 </div>
 
 <div class="led-timeline-item led-timeline--action">

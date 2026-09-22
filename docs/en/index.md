@@ -46,7 +46,7 @@ Blue-White-Red Card, Sixth Republic, brevet to vote, strengthened departments.
 
 ### I. Liberty
 
-- **Measured** consumption limits; some countries also settled via the **Blue-White-Red Card** (in addition to usual payment).
+- **Measured** consumption limits; **some resources** also settled via the **Blue-White-Red Card** (in addition to usual payment).
 - **Strong ethical limits** (procreation, AI, space, etc.).
 - Priority for French and European production: **energy, defense, food, health, basic textiles**, etc.
 
@@ -67,11 +67,11 @@ Blue-White-Red Card, Sixth Republic, brevet to vote, strengthened departments.
 
 ### III. Democracy, institutions and society
 
-- BBR Card: **housing = blue**, **health = white**, **basic food & hygiene = blue**; payment for "rare" resources (water, energy).
-- **Middle school brevet** required to vote; oath of loyalty for status I.
+- BBR Card: **housing = blue**, **health = white**, **basic food & hygiene = red**; payment for "rare" resources (water, energy).
+- **Middle school brevet** required to vote; **nationality status I**: oath of loyalty.
 - Reduced **ministry** spending, **abolition of regions**, more responsibilities for **departments**.
 - Europe limited to **common standards and partnerships between countries only**.
-- Property ownership limited to **statuses I and II**.
+- Property ownership limited to **nationality statuses I and II**.
 
 </div>
 

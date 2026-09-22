@@ -46,7 +46,7 @@ Carte Bleu-Blanc-Rouge, VIe République, brevet pour voter, départements renfor
 
 ### I. Liberté
 
-- Limites de consommation **mesurées** ; certains pays réglés aussi via la **Carte Bleu-Blanc-Rouge** (en plus du paiement habituel).
+- Limites de consommation **mesurées** ; **certaines ressources** réglées aussi via la **Carte Bleu-Blanc-Rouge** (en plus du paiement habituel).
 - **Limites éthiques fortes** (procréation, IA, espace, etc.).
 - Priorité à la production française et européenne : **énergie, défense, alimentaire, santé, textile de base**, etc.
 
@@ -67,11 +67,11 @@ Carte Bleu-Blanc-Rouge, VIe République, brevet pour voter, départements renfor
 
 ### III. Démocratie, institutions et société
 
-- Carte BBR : **logement = bleu**, **santé = blanc**, **alimentation & hygiène de base = bleu** ; paiement des ressources « rares » (eau, énergies).
-- **Brevet des collèges** requis pour voter ; serment de fidélité pour le statut I.
+- Carte BBR : **logement = bleu**, **santé = blanc**, **alimentation & hygiène de base = rouge** ; paiement des ressources « rares » (eau, énergies).
+- **Brevet des collèges** requis pour voter ; **statut de nationalité I** : serment de fidélité.
 - Réduction des dépenses des **ministères**, **suppression des régions**, plus de responsabilités pour les **départements**.
 - Europe limitée aux **normes communes et partenariats entre pays seulement**.
-- Propriété immobilière limitée aux **statuts I et II**.
+- Propriété immobilière limitée aux **statuts de nationalité I et II**.
 
 </div>
 

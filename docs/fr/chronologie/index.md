@@ -15,7 +15,7 @@ Feuille de route indicative de l'initiative **LED** — de la fondation à la mi
 
 <div class="led-timeline-item led-timeline--prep">
   <time>Janvier 2026</time>
-  <h3>Convention fonatrice</h3>
+  <h3>Convention fondatrice</h3>
   <p>Adoption officielle des trois piliers — Liberté, Environnement, Démocratie — et validation du projet de programme pour 2027.</p>
 </div>
 
@@ -40,7 +40,7 @@ Feuille de route indicative de l'initiative **LED** — de la fondation à la mi
 <div class="led-timeline-item led-timeline--prep">
   <time>Décembre 2026</time>
   <h3>Présentation de la Carte Bleu-Blanc-Rouge</h3>
-  <p>Dévoilement de la Carte Bleu-Blanc-Rouge : logement (bleu), santé (blanc), alimentation et hygiène de base (bleu), et ressources « rares » (eau, énergies).</p>
+  <p>Dévoilement de la Carte Bleu-Blanc-Rouge : logement (bleu), santé (blanc), alimentation et hygiène de base (rouge), et ressources « rares » (eau, énergies).</p>
 </div>
 
 <div class="led-timeline-item led-timeline--prep">
@@ -76,7 +76,7 @@ Feuille de route indicative de l'initiative **LED** — de la fondation à la mi
 <div class="led-timeline-item led-timeline--action">
   <time>Janvier 2028</time>
   <h3>Réforme de l'éducation — phase pilote</h3>
-  <p>Expérimentation du nouveau collège (4, 5 ou 6 ans), brevet obligatoire pour voter et serment de fidélité pour le statut I ; baccalauréat type A-levels dans trente établissements.</p>
+  <p>Expérimentation du nouveau collège (4, 5 ou 6 ans), brevet obligatoire pour voter et serment de fidélité pour le statut de nationalité I ; baccalauréat type A-levels dans trente établissements.</p>
 </div>
 
 <div class="led-timeline-item led-timeline--action">

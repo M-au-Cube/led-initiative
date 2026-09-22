@@ -16,8 +16,8 @@ sections:
       - id: limites-consommation
         title_fr: "Limites individuelles de consommation de ressources"
         title_en: "Individual limits on resource consumption"
-        summary_fr: "Mise en place de limites individuelles de consommation de ressources (eau, énergie, etc.), mesurées et suivies. Certains pays devront être réglés avec la Carte Bleu-Blanc-Rouge en complément du moyen de paiement habituel (carte bancaire, chèque, etc.)."
-        summary_en: "Implementation of measured and tracked individual limits on resource consumption (water, energy, etc.). Some countries will require payment with the Blue-White-Red Card in addition to usual payment methods (bank card, check, etc.)."
+        summary_fr: "Mise en place de limites individuelles de consommation de ressources (eau, énergie, etc.), mesurées et suivies. Certaines ressources devront être réglées avec la Carte Bleu-Blanc-Rouge en complément du moyen de paiement habituel (carte bancaire, chèque, etc.)."
+        summary_en: "Implementation of measured and tracked individual limits on resource consumption (water, energy, etc.). Some resources will require payment with the Blue-White-Red Card in addition to usual payment methods (bank card, check, etc.)."
       - id: limites-ethiques
         title_fr: "Limites éthiques sur les technologies et la vie"
         title_en: "Ethical limits on technology and life"
@@ -91,8 +91,8 @@ sections:
       - id: carte-bbr
         title_fr: "Carte Bleu-Blanc-Rouge"
         title_en: "Blue-White-Red Card"
-        summary_fr: "Carte Bleu-Blanc-Rouge : logement (bleu), santé (blanc), alimentation et hygiène de base (bleu). La carte sert aussi au paiement des ressources dites « rares » (eau, énergies, etc.)."
-        summary_en: "Blue-White-Red Card: housing (blue), health (white), basic food and hygiene (blue). The card also covers payment for so-called \"rare\" resources (water, energy, etc.)."
+        summary_fr: "Carte Bleu-Blanc-Rouge : logement (bleu), santé (blanc), alimentation et hygiène de base (rouge). La carte sert aussi au paiement des ressources dites « rares » (eau, énergies, etc.)."
+        summary_en: "Blue-White-Red Card: housing (blue), health (white), basic food and hygiene (red). The card also covers payment for so-called \"rare\" resources (water, energy, etc.)."
       - id: reforme-education
         title_fr: "Réforme de l'éducation"
         title_en: "Education reform"
@@ -136,8 +136,8 @@ sections:
       - id: niveaux-nationalite
         title_fr: "Trois niveaux de nationalité"
         title_en: "Three levels of nationality"
-        summary_fr: "Création de trois niveaux de nationalité (I : Français seulement ; II : Français multinational ; III : Amitié française). Propriété immobilière limitée aux statuts I et II. Les statuts I prêteront serment, à l'obtention du droit de vote (validation du brevet), de fidélité et de respect des valeurs de la France."
-        summary_en: "Creation of three levels of nationality (I: French only; II: Multinational French; III: French Friendship). Property ownership limited to statuses I and II. Status I holders will swear an oath, when obtaining the right to vote (brevet validation), of loyalty and respect for France's values."
+        summary_fr: "Création de trois niveaux de nationalité (I : Français seulement ; II : Français multinational ; III : Amitié française). Propriété immobilière limitée aux statuts de nationalité I et II. Statut de nationalité I : serment de fidélité et de respect des valeurs de la France à l'obtention du droit de vote (validation du brevet)."
+        summary_en: "Creation of three levels of nationality (I: French only; II: Multinational French; III: French Friendship). Property ownership limited to nationality statuses I and II. Nationality status I: oath of loyalty and respect for France's values upon obtaining the right to vote (brevet validation)."
 
   - id: recompenses
     title_fr: "Récompenses, mérite et reconnaissance"
