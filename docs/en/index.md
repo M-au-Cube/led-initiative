@@ -16,7 +16,7 @@ Three fundamental pillars for a sovereign, sustainable and democratic France.
 
 ### Liberty
 
-Economic liberty within sustainable constraints (ESG), clear ethical limits and industrial sovereignty.
+Economic liberty (ESG), strong ethical limits, priority for French and European production.
 
 </div>
 
@@ -24,7 +24,7 @@ Economic liberty within sustainable constraints (ESG), clear ethical limits and 
 
 ### Environment
 
-Demanding ecological policy, reduced energy consumption, territorial planning and organic agriculture.
+ESG policy, energy sobriety, more humane care homes, organic agriculture and sustainable transport.
 
 </div>
 
@@ -32,7 +32,46 @@ Demanding ecological policy, reduced energy consumption, territorial planning an
 
 ### Democracy
 
-Sixth Republic, digital referendums, education reform and institutional renewal.
+Blue-White-Red Card, Sixth Republic, brevet to vote, strengthened departments.
+
+</div>
+
+</div>
+
+## Program overview
+
+<div class="led-home-themes" markdown="1">
+
+<div class="led-home-theme" markdown="1">
+
+### I. Liberty
+
+- **Measured** consumption limits; some countries also settled via the **Blue-White-Red Card** (in addition to usual payment).
+- **Strong ethical limits** (procreation, AI, space, etc.).
+- Priority for French and European production: **energy, defense, food, health, basic textiles**, etc.
+
+</div>
+
+<div class="led-home-theme" markdown="1">
+
+### II. Environment
+
+- **ESG** criteria (Environmental, Social, Governance).
+- Penalties for insufficiently sustainable projects, **especially in construction (BTP)**.
+- **Care homes (EHPAD)** better connected to society, more humane.
+- See also **Defense** section measures for strategic autonomy.
+
+</div>
+
+<div class="led-home-theme" markdown="1">
+
+### III. Democracy, institutions and society
+
+- BBR Card: **housing = blue**, **health = white**, **basic food & hygiene = blue**; payment for "rare" resources (water, energy).
+- **Middle school brevet** required to vote; oath of loyalty for status I.
+- Reduced **ministry** spending, **abolition of regions**, more responsibilities for **departments**.
+- Europe limited to **common standards and partnerships between countries only**.
+- Property ownership limited to **statuses I and II**.
 
 </div>
 

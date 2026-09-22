@@ -40,7 +40,7 @@ Indicative roadmap for the **LED** initiative — from foundation to program imp
 <div class="led-timeline-item led-timeline--prep">
   <time>December 2026</time>
   <h3>Blue-White-Red Card presentation</h3>
-  <p>Unveiling of the card project guaranteeing housing, health, food and hygiene — foundation of the future social reform.</p>
+  <p>Unveiling of the Blue-White-Red Card: housing (blue), health (white), basic food and hygiene (blue), and "rare" resources (water, energy).</p>
 </div>
 
 <div class="led-timeline-item led-timeline--prep">
@@ -70,19 +70,19 @@ Indicative roadmap for the **LED** initiative — from foundation to program imp
 <div class="led-timeline-item led-timeline--action">
   <time>November 2027</time>
   <h3>Debt reduction trajectory</h3>
-  <p>Adoption of the twenty-year framework law: spending cuts, tax reform and zero public debt objective.</p>
+  <p>Adoption of the twenty-year framework law: non-renewal of ministry spending, abolition of regions, strengthened departments, zero public debt objective.</p>
 </div>
 
 <div class="led-timeline-item led-timeline--action">
   <time>January 2028</time>
   <h3>Education reform — pilot phase</h3>
-  <p>Trial of the new middle school format (4, 5 or 6 years) and A-level style baccalaureate in thirty schools.</p>
+  <p>Trial of the new middle school format (4, 5 or 6 years), brevet required to vote and oath of loyalty for status I; A-level style baccalaureate in thirty schools.</p>
 </div>
 
 <div class="led-timeline-item led-timeline--action">
   <time>March 2028</time>
   <h3>Digital sovereignty</h3>
-  <p>Launch of public competitions for French alternatives to major platforms and recovery of strategic mapping data.</p>
+  <p>Launch of European and national competitions for European private digital alternatives and recovery of strategic mapping data.</p>
 </div>
 
 <div class="led-timeline-item led-timeline--action">

@@ -171,14 +171,19 @@
   function renderSections(container, data, options) {
     container.innerHTML = "";
     data.sections.forEach((section) => {
+      const block = document.createElement("section");
+      block.className = "led-theme-block";
+
       const sectionTitleEl = document.createElement("h2");
       sectionTitleEl.className = "led-section";
       sectionTitleEl.textContent = sectionTitle(section);
-      container.appendChild(sectionTitleEl);
+      block.appendChild(sectionTitleEl);
 
       section.measures.forEach((measure) => {
-        container.appendChild(renderMeasure(measure, options));
+        block.appendChild(renderMeasure(measure, options));
       });
+
+      container.appendChild(block);
     });
   }
 

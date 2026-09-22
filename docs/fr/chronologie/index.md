@@ -40,7 +40,7 @@ Feuille de route indicative de l'initiative **LED** — de la fondation à la mi
 <div class="led-timeline-item led-timeline--prep">
   <time>Décembre 2026</time>
   <h3>Présentation de la Carte Bleu-Blanc-Rouge</h3>
-  <p>Dévoilement du projet de carte garantissant logement, santé, alimentation et hygiène — socle de la future réforme sociale.</p>
+  <p>Dévoilement de la Carte Bleu-Blanc-Rouge : logement (bleu), santé (blanc), alimentation et hygiène de base (bleu), et ressources « rares » (eau, énergies).</p>
 </div>
 
 <div class="led-timeline-item led-timeline--prep">
@@ -70,19 +70,19 @@ Feuille de route indicative de l'initiative **LED** — de la fondation à la mi
 <div class="led-timeline-item led-timeline--action">
   <time>Novembre 2027</time>
   <h3>Trajectoire de désendettement</h3>
-  <p>Adoption de la loi-cadre sur vingt ans : réduction des dépenses, réforme fiscale et objectif de dette publique nulle.</p>
+  <p>Adoption de la loi-cadre sur vingt ans : non-reconduction des dépenses ministérielles, suppression des régions, responsabilités renforcées des départements, objectif de dette publique nulle.</p>
 </div>
 
 <div class="led-timeline-item led-timeline--action">
   <time>Janvier 2028</time>
   <h3>Réforme de l'éducation — phase pilote</h3>
-  <p>Expérimentation du nouveau collège (4, 5 ou 6 ans) et du baccalauréat type A-levels dans trente établissements.</p>
+  <p>Expérimentation du nouveau collège (4, 5 ou 6 ans), brevet obligatoire pour voter et serment de fidélité pour le statut I ; baccalauréat type A-levels dans trente établissements.</p>
 </div>
 
 <div class="led-timeline-item led-timeline--action">
   <time>Mars 2028</time>
   <h3>Souveraineté numérique</h3>
-  <p>Lancement des concours publics pour alternatives françaises aux grandes plateformes et reprise des données cartographiques stratégiques.</p>
+  <p>Lancement de concours européens et nationaux pour des alternatives numériques privées européennes et reprise des données cartographiques stratégiques.</p>
 </div>
 
 <div class="led-timeline-item led-timeline--action">

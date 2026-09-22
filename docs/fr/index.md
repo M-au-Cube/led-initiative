@@ -16,7 +16,7 @@ Trois piliers fondamentaux pour une France souveraine, durable et démocratique.
 
 ### Liberté
 
-Liberté économique encadrée par des contraintes durables (ESG), limites éthiques claires et souveraineté industrielle.
+Liberté économique (ESG), limites éthiques fortes, production française et européenne prioritaire.
 
 </div>
 
@@ -24,7 +24,7 @@ Liberté économique encadrée par des contraintes durables (ESG), limites éthi
 
 ### Environnement
 
-Politique écologique exigeante, réduction de la consommation énergétique, aménagement du territoire et agriculture biologique.
+Politique ESG, sobriété énergétique, EHPAD plus humains, agriculture biologique et transports durables.
 
 </div>
 
@@ -32,7 +32,46 @@ Politique écologique exigeante, réduction de la consommation énergétique, am
 
 ### Démocratie
 
-VIe République, référendums numériques, réforme de l'éducation et refondation des institutions.
+Carte Bleu-Blanc-Rouge, VIe République, brevet pour voter, départements renforcés.
+
+</div>
+
+</div>
+
+## Aperçu du programme
+
+<div class="led-home-themes" markdown="1">
+
+<div class="led-home-theme" markdown="1">
+
+### I. Liberté
+
+- Limites de consommation **mesurées** ; certains pays réglés aussi via la **Carte Bleu-Blanc-Rouge** (en plus du paiement habituel).
+- **Limites éthiques fortes** (procréation, IA, espace, etc.).
+- Priorité à la production française et européenne : **énergie, défense, alimentaire, santé, textile de base**, etc.
+
+</div>
+
+<div class="led-home-theme" markdown="1">
+
+### II. Environnement
+
+- Critères **ESG** (Environnemental, Social, Gouvernance).
+- Pénalités pour projets insuffisamment durables, **notamment dans le BTP**.
+- **EHPAD** mieux connectés à la société, plus humains.
+- Voir aussi les mesures de la section **Défense** pour l'autonomie stratégique.
+
+</div>
+
+<div class="led-home-theme" markdown="1">
+
+### III. Démocratie, institutions et société
+
+- Carte BBR : **logement = bleu**, **santé = blanc**, **alimentation & hygiène de base = bleu** ; paiement des ressources « rares » (eau, énergies).
+- **Brevet des collèges** requis pour voter ; serment de fidélité pour le statut I.
+- Réduction des dépenses des **ministères**, **suppression des régions**, plus de responsabilités pour les **départements**.
+- Europe limitée aux **normes communes et partenariats entre pays seulement**.
+- Propriété immobilière limitée aux **statuts I et II**.
 
 </div>
 

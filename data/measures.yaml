@@ -16,18 +16,18 @@ sections:
       - id: limites-consommation
         title_fr: "Limites individuelles de consommation de ressources"
         title_en: "Individual limits on resource consumption"
-        summary_fr: "Mise en place de limites individuelles de consommation de ressources (eau, énergie, etc.)."
-        summary_en: "Implementation of individual limits on resource consumption (water, energy, etc.)."
+        summary_fr: "Mise en place de limites individuelles de consommation de ressources (eau, énergie, etc.), mesurées et suivies. Certains pays devront être réglés avec la Carte Bleu-Blanc-Rouge en complément du moyen de paiement habituel (carte bancaire, chèque, etc.)."
+        summary_en: "Implementation of measured and tracked individual limits on resource consumption (water, energy, etc.). Some countries will require payment with the Blue-White-Red Card in addition to usual payment methods (bank card, check, etc.)."
       - id: limites-ethiques
         title_fr: "Limites éthiques sur les technologies et la vie"
         title_en: "Ethical limits on technology and life"
-        summary_fr: "Définition de limites éthiques sur : procréation, assistance au suicide, humain augmenté, allongement de la durée de vie, IA dans la défense, conquête spatiale."
-        summary_en: "Definition of ethical limits on: procreation, assisted suicide, augmented humans, life extension, AI in defense, space conquest."
+        summary_fr: "Définition de limites éthiques fortes sur : procréation, assistance au suicide, humain augmenté, allongement de la durée de vie, IA dans la défense, conquête spatiale."
+        summary_en: "Definition of strong ethical limits on: procreation, assisted suicide, augmented humans, life extension, AI in defense, space conquest."
       - id: production-francaise
         title_fr: "Priorité à la production française et européenne"
         title_en: "Priority for French and European production"
-        summary_fr: "Priorité à la production française et européenne ; recours à des droits de douane sur les secteurs stratégiques si nécessaire."
-        summary_en: "Priority for French and European production; use of tariffs on strategic sectors when necessary."
+        summary_fr: "Priorité à la production française et européenne ; recours à des droits de douane sur les secteurs stratégiques si nécessaire : énergie, défense, alimentaire, santé, textile de base, etc."
+        summary_en: "Priority for French and European production; use of tariffs on strategic sectors when necessary: energy, defense, food, health, basic textiles, etc."
 
   - id: environnement
     title_fr: "II. Environnement"
@@ -36,8 +36,8 @@ sections:
       - id: politique-esg
         title_fr: "Politique écologique fondée sur les critères ESG"
         title_en: "Ecological policy based on ESG criteria"
-        summary_fr: "Politique écologique fondée sur les critères ESG."
-        summary_en: "Ecological policy based on ESG criteria."
+        summary_fr: "Politique écologique fondée sur les critères ESG (Environnemental, Social, Gouvernance)."
+        summary_en: "Ecological policy based on ESG criteria (Environmental, Social, Governance)."
       - id: reduction-energie
         title_fr: "Réduction massive de la consommation énergétique"
         title_en: "Massive reduction of energy consumption"
@@ -51,13 +51,13 @@ sections:
       - id: penalites-projets
         title_fr: "Pénalités pour projets insuffisamment durables"
         title_en: "Penalties for insufficiently sustainable projects"
-        summary_fr: "Pénalités pour les projets jugés trop rapides ou insuffisamment durables."
-        summary_en: "Penalties for projects deemed too fast or insufficiently sustainable."
+        summary_fr: "Pénalités pour les projets jugés trop rapides ou insuffisamment durables, notamment dans le secteur du BTP."
+        summary_en: "Penalties for projects deemed too fast or insufficiently sustainable, especially in the construction (BTP) sector."
       - id: traditions-anciens
-        title_fr: "Respect des anciens et transmission des traditions"
-        title_en: "Respect for elders and transmission of traditions"
-        summary_fr: "Respect des anciens et transmission des traditions."
-        summary_en: "Respect for elders and transmission of traditions."
+        title_fr: "Respect des anciens, des EHPAD et transmission des traditions"
+        title_en: "Respect for elders, care homes and transmission of traditions"
+        summary_fr: "Respect des anciens et transmission des traditions ; mieux connecter les EHPAD au reste de la société et les rendre plus humains."
+        summary_en: "Respect for elders and transmission of traditions; better connect care homes (EHPAD) with society and make them more humane."
       - id: agriculture-bio
         title_fr: "Retour à une agriculture majoritairement biologique"
         title_en: "Return to predominantly organic agriculture"
@@ -91,8 +91,8 @@ sections:
       - id: carte-bbr
         title_fr: "Carte Bleu-Blanc-Rouge"
         title_en: "Blue-White-Red Card"
-        summary_fr: "Carte Bleu-Blanc-Rouge garantissant les besoins fondamentaux : logement, santé, alimentation et hygiène."
-        summary_en: "Blue-White-Red Card guaranteeing fundamental needs: housing, health, food and hygiene."
+        summary_fr: "Carte Bleu-Blanc-Rouge : logement (bleu), santé (blanc), alimentation et hygiène de base (bleu). La carte sert aussi au paiement des ressources dites « rares » (eau, énergies, etc.)."
+        summary_en: "Blue-White-Red Card: housing (blue), health (white), basic food and hygiene (blue). The card also covers payment for so-called \"rare\" resources (water, energy, etc.)."
       - id: reforme-education
         title_fr: "Réforme de l'éducation"
         title_en: "Education reform"
@@ -101,8 +101,8 @@ sections:
       - id: nouveau-college
         title_fr: "Nouveau format de Collège"
         title_en: "New middle school format"
-        summary_fr: "Collège en 4, 5 ou 6 ans selon le niveau (brevet nécessaire pour voter). Modèle allemand pour les après-midis libres (langues, arts, sport)."
-        summary_en: "Middle school in 4, 5 or 6 years depending on level (diploma required to vote). German model for free afternoons (languages, arts, sports)."
+        summary_fr: "Collège en 4, 5 ou 6 ans selon le niveau. Obtention du brevet des collèges nécessaire pour l'exercice du droit de vote. Modèle allemand pour les après-midis libres (langues, arts, sport)."
+        summary_en: "Middle school in 4, 5 or 6 years depending on level. Obtaining the middle school diploma (brevet) required to exercise the right to vote. German model for free afternoons (languages, arts, sports)."
       - id: bac-a-levels
         title_fr: "Baccalauréat format anglais (A-levels)"
         title_en: "A-level style baccalaureate"
@@ -111,8 +111,8 @@ sections:
       - id: reduction-fiscalite
         title_fr: "Réduction des dépenses publiques et de la fiscalité"
         title_en: "Reduction of public spending and taxation"
-        summary_fr: "Réduction des dépenses publiques et de la fiscalité."
-        summary_en: "Reduction of public spending and taxation."
+        summary_fr: "Réduction des dépenses publiques et de la fiscalité : non-reconduction des dépenses dans les ministères, suppression des régions au profit de responsabilités accrues pour les départements."
+        summary_en: "Reduction of public spending and taxation: non-renewal of ministry spending, abolition of regions in favor of increased responsibilities for departments."
       - id: budgets-militaires
         title_fr: "Renforcement des budgets militaires"
         title_en: "Strengthening of military budgets"
@@ -121,8 +121,8 @@ sections:
       - id: reforme-ue
         title_fr: "Réforme de la relation avec l'Union européenne"
         title_en: "Reform of the relationship with the European Union"
-        summary_fr: "Réforme de la relation avec l'Union européenne et réflexion sur une Europe simplifiée (normes communes et partenariats entre pays)."
-        summary_en: "Reform of the relationship with the EU and reflection on a simplified Europe (common standards and partnerships between countries)."
+        summary_fr: "Réforme de la relation avec l'Union européenne et réflexion sur une Europe simplifiée, limitée à des normes communes et à des partenariats entre pays seulement."
+        summary_en: "Reform of the relationship with the EU and reflection on a simplified Europe, limited to common standards and partnerships between countries only."
       - id: projet-quebec
         title_fr: "Projet relatif au Québec"
         title_en: "Quebec project"
@@ -136,8 +136,8 @@ sections:
       - id: niveaux-nationalite
         title_fr: "Trois niveaux de nationalité"
         title_en: "Three levels of nationality"
-        summary_fr: "Création de trois niveaux de nationalité (I : Français seulement ; II : Français multinational ; III : Amitié française) et restriction de l'accès à la propriété immobilière selon le statut."
-        summary_en: "Creation of three levels of nationality (I: French only; II: Multinational French; III: French Friendship) and restriction of property access by status."
+        summary_fr: "Création de trois niveaux de nationalité (I : Français seulement ; II : Français multinational ; III : Amitié française). Propriété immobilière limitée aux statuts I et II. Les statuts I prêteront serment, à l'obtention du droit de vote (validation du brevet), de fidélité et de respect des valeurs de la France."
+        summary_en: "Creation of three levels of nationality (I: French only; II: Multinational French; III: French Friendship). Property ownership limited to statuses I and II. Status I holders will swear an oath, when obtaining the right to vote (brevet validation), of loyalty and respect for France's values."
 
   - id: recompenses
     title_fr: "Récompenses, mérite et reconnaissance"
@@ -146,38 +146,28 @@ sections:
       - id: reforme-decorations
         title_fr: "Réforme des systèmes de décorations"
         title_en: "Reform of decoration systems"
-        summary_fr: "Réforme des systèmes de décorations et de médailles."
-        summary_en: "Reform of decoration and medal systems."
+        summary_fr: "Réforme des systèmes de décorations et de médailles pour une reconnaissance plus juste ; moins de remises de médailles « par principe »."
+        summary_en: "Reform of decoration and medal systems for fairer recognition; fewer medals awarded \"by default\"."
       - id: ordre-humanite
         title_fr: "Ordre pour l'Humanité"
         title_en: "Order for Humanity"
-        summary_fr: "Création de l'Ordre pour l'Humanité (grade unique de chevalier), médaille la plus prestigieuse de France, décernée aux personnes les plus impliquées dans la paix et la prospérité."
-        summary_en: "Creation of the Order for Humanity (single knight grade), France's most prestigious medal, awarded to those most involved in peace and prosperity."
+        summary_fr: "Création de l'Ordre pour l'Humanité (grade unique de chevalier), médaille la plus prestigieuse de France, décernée aux personnes les plus impliquées dans la paix et la prospérité, au niveau français ou international."
+        summary_en: "Creation of the Order for Humanity (single knight grade), France's most prestigious medal, awarded to those most involved in peace and prosperity, at French or international level."
       - id: coupole-argent
         title_fr: "Grande Coupole d'Argent à Lyon"
         title_en: "Great Silver Dome in Lyon"
         summary_fr: "Création d'une Grande Coupole d'Argent à Lyon réunissant 120 « Éternels » élus internationalement pour fixer les limites éthiques de l'Humanité."
         summary_en: "Creation of a Great Silver Dome in Lyon gathering 120 internationally elected 'Eternals' to set humanity's ethical limits."
       - id: parcours-excellence
-        title_fr: "Parcours d'excellence scolaire"
-        title_en: "School excellence pathways"
-        summary_fr: "Parcours d'excellence au collège-lycée-université dans les domaines scientifiques, sportifs, artistiques et littéraires."
-        summary_en: "Excellence pathways in middle school, high school and university in scientific, sports, artistic and literary fields."
+        title_fr: "Renforcement des parcours d'excellence scolaire"
+        title_en: "Strengthening of school excellence pathways"
+        summary_fr: "Renforcement des parcours d'excellence au collège-lycée-université dans les domaines scientifiques, sportifs, artistiques et littéraires."
+        summary_en: "Strengthening of excellence pathways in middle school, high school and university in scientific, sports, artistic and literary fields."
       - id: distinctions-college
         title_fr: "Accès aux distinctions dès le collège"
         title_en: "Access to distinctions from middle school"
         summary_fr: "Accès aux distinctions dès le collège."
         summary_en: "Access to distinctions from middle school."
-      - id: patronyme-commune
-        title_fr: "Nom de commune au patronyme"
-        title_en: "Municipality name in surname"
-        summary_fr: "Possibilité d'ajouter le nom de sa commune à son patronyme sous conditions de service rendu."
-        summary_en: "Possibility of adding one's municipality name to one's surname under conditions of service rendered."
-      - id: mathusalem-europe
-        title_fr: "Représentant symbolique de l'Europe (Mathusalemi)"
-        title_en: "Symbolic representative of Europe (Methuselah)"
-        summary_en: "Proposal for a symbolic representative of Europe ('Methuselah')."
-        summary_fr: "Proposition d'un représentant symbolique de l'Europe (« Mathusalemi »)."
 
   - id: immigration
     title_fr: "Immigration et sécurité"
@@ -211,8 +201,8 @@ sections:
       - id: alternatives-numeriques
         title_fr: "Alternatives françaises et européennes aux grandes plateformes"
         title_en: "French and European alternatives to major platforms"
-        summary_fr: "Développement d'alternatives françaises et européennes aux grandes plateformes numériques."
-        summary_en: "Development of French and European alternatives to major digital platforms."
+        summary_fr: "Développement d'alternatives numériques européennes portées par des entreprises privées, sponsorisées via concours au niveau européen ou national."
+        summary_en: "Development of European digital alternatives led by private companies, sponsored through European or national competitions."
       - id: donnees-strategiques
         title_fr: "Reprise de la maîtrise des données stratégiques"
         title_en: "Regaining control of strategic data"
@@ -266,18 +256,18 @@ sections:
       - id: commando-maupertuis
         title_fr: "Commando Marine Maupertuis"
         title_en: "Maupertuis Marine Commando"
-        summary_fr: "Création du Commando Marine d'excellence scientifique Maupertuis (scientifiques et ingénieurs de réserve)."
-        summary_en: "Creation of the Maupertuis scientific excellence Marine Commando (scientists and reserve engineers)."
+        summary_fr: "Création du Commando Marine d'excellence scientifique Maupertuis : scientifiques et ingénieurs de réserve suivant une formation Commando."
+        summary_en: "Creation of the Maupertuis scientific excellence Marine Commando: reserve scientists and engineers following Commando training."
       - id: legion-reserve
         title_fr: "Renforcement Légion étrangère et réserve"
         title_en: "Strengthening Foreign Legion and reserves"
         summary_fr: "Renforcement de la Légion étrangère et de la réserve."
         summary_en: "Strengthening of the Foreign Legion and reserves."
       - id: association-arcanes
-        title_fr: "Association Arcanes pour la réinsertion"
+        title_fr: "Association Arcanes pour la réintégration"
         title_en: "Arcanes association for reintegration"
-        summary_fr: "Création de l'association Arcanes pour la réinsertion des détenus (parcours optimisés par l'IA)."
-        summary_en: "Creation of the Arcanes association for prisoner reintegration (AI-optimized pathways)."
+        summary_fr: "Création de l'association Arcanes pour la réintégration des détenus (parcours de réintégration optimisés par l'IA)."
+        summary_en: "Creation of the Arcanes association for prisoner reintegration (reintegration pathways optimized by AI)."
 
   - id: economie
     title_fr: "Économie et professions réglementées"

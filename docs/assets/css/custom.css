@@ -207,6 +207,34 @@
   border-top: 3px solid var(--led-red);
 }
 
+.led-home-themes {
+  margin: 2rem 0;
+}
+
+.led-home-theme {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-radius: 0.65rem;
+  border-left: 4px solid var(--led-blue);
+  background: var(--md-default-bg-color);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+}
+
+.led-home-theme h3 {
+  margin-top: 0;
+  color: var(--led-blue);
+}
+
+.led-home-theme ul {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.led-home-theme li {
+  margin: 0.35rem 0;
+  line-height: 1.5;
+}
+
 .led-downloads {
   display: flex;
   flex-wrap: wrap;
@@ -238,9 +266,22 @@
   box-shadow: 0 2px 8px rgba(239, 65, 53, 0.25);
 }
 
+.led-theme-block {
+  margin: 2rem 0;
+  padding: 1rem 1.25rem 1.25rem;
+  border-radius: 0.65rem;
+  border: 1px solid rgba(0, 35, 149, 0.12);
+  background: linear-gradient(180deg, rgba(0, 35, 149, 0.03) 0%, transparent 100%);
+  box-shadow: 0 2px 12px rgba(0, 35, 149, 0.04);
+}
+
+.led-theme-block:first-child {
+  margin-top: 1rem;
+}
+
 .led-section {
-  margin: 2rem 0 1rem;
-  padding-bottom: 0.5rem;
+  margin: 0 0 0.75rem;
+  padding-bottom: 0.45rem;
   border-bottom: 2px solid var(--led-blue);
   position: relative;
 }
@@ -253,6 +294,10 @@
   width: 33%;
   height: 2px;
   background: var(--led-red);
+}
+
+.led-theme-block .led-measure:first-of-type {
+  margin-top: 0.25rem;
 }
 
 .led-measure {
